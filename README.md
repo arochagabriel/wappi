@@ -8,7 +8,7 @@ Node >= 14.16.0 ->  [how to install Node](https://nodejs.org/es/download/)
 
 		git clone git@github.com:arochagabriel/wappi.git
 
-		cd proplanner 
+		cd wappi 
 
 ## 3) Install Cypress  
 		cd cypress && npm i
