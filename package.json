@@ -1,0 +1,19 @@
+{
+  "name": "fullcypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ui-test": "npx cypress run --spec **/wappi.cy.js",
+    "cypress": "npx cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^7.5.0",
+    "cypress": "^11.2.0"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.7.1"
+  }
+}
