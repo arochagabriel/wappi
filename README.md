@@ -6,7 +6,7 @@ Node >= 14.16.0 ->  [how to install Node](https://nodejs.org/es/download/)
 
 		mkdir myFolder && cd myFolder
 
-		git clone git@github.com:arochagabriel/proplanner.git
+		git clone git@github.com:arochagabriel/wappi.git
 
 		cd proplanner 
 
