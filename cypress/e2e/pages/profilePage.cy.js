@@ -8,7 +8,7 @@ export class profilePage {
             .selectFile('cypress/fixtures/cat.jpg');
     }
 
-    setFullUserInfo(userName, lastName, birthDate){
+    setFullUserInfo(userName, lastName){
         cy  
             .get('#name').clear().type(userName)
             .get('#lastName').clear().type(lastName)
